@@ -162,5 +162,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
  
 ## Contributing
  
-This is a learning-focused repository. If you find an error or want to add a beginner-friendly section, feel free to open an issue or a pull request. 
+This is a learning-focused repository. If you find an error or want to add a beginner-friendly section, feel free to open an issue or a pull request. or please contatac me on whatsapp"9692005585" or gmail carmodbhai@gmail.com
  
