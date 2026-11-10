@@ -168,6 +168,27 @@ This is a learning-focused repository. If you find an error or want to add a beg
 
 ---
 
+## Skills & technologies
+
+`Python`
+
+
+## Repository structure
+
+Key files and folders (not exhaustive):
+
+- `LICENSE (7)`
+- `README.md`
+- `blink.py`
+- `gpio-pinout.md`
+- `troubleshooting.md`
+
+
+## How it works
+
+Python source is present, including `blink.py`. Review configuration and dependencies before running; use a virtual environment and follow the project's setup instructions.
+
+
 ## Maintenance & Audit
 
 - **Audit date:** 10 November 2026
