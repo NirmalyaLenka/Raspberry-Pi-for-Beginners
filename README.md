@@ -107,6 +107,6 @@ The README and linked root-level documents were reviewed against the visible tre
 
 ## Maintenance & Audit
 
-- **Audit date:** 11 November 2026
+- **Audit date:** 20 November 2026
 - **Documentation status:** README paths and first GPIO instructions aligned with the actual root-level files.
 - **Verification boundary:** Documentation only; no OS or hardware test is claimed.
