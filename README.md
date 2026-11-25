@@ -110,3 +110,9 @@ The README and linked root-level documents were reviewed against the visible tre
 - **Audit date:** 20 November 2026
 - **Documentation status:** README paths and first GPIO instructions aligned with the actual root-level files.
 - **Verification boundary:** Documentation only; no OS or hardware test is claimed.
+
+## Contact
+
+Maintained up to 25 November 2026.
+
+If you encounter any problems, please contact [carmodbhai@gmail.com](mailto:carmodbhai@gmail.com).
